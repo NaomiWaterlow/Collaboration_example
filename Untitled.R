@@ -1,6 +1,6 @@
 # practice script
 
-x = 2
+x = 6
 
 y = 4
 
